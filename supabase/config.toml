@@ -1,0 +1,10 @@
+project_id = "bjgwurqxtyhxxcleurbc"
+
+[functions.agri-chat]
+verify_jwt = false
+
+[functions.crop-recommend]
+verify_jwt = false
+
+[functions.disease-detect]
+verify_jwt = false
